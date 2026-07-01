@@ -1,0 +1,902 @@
+canonical_identifier: bkk:krp/KR6k0203/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0203/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈悲道場水懺法科註
+  identifiers:
+    krp: KR6k0203
+    cbeta: X74n1496
+    cbeta_old_id: X74n1496
+    authorityid: CA0003191
+    json_key: X1496
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1496.xml
+    old_id: X74n1496
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0203_000-X.yaml, hash: 'sha256:cd850f00c9cfcbcd3bf675eb7b0aeb36e88dce4a643a4bdd17d8a4f77d867cf1'}
+  - {seq: 1, filename: KR6k0203_001-X.yaml, hash: 'sha256:2113613c1ae2b6ebfe6ac11375f74fcfba6b5a3c68ea177dd41bf5b242731aba'}
+  - {seq: 2, filename: KR6k0203_002-X.yaml, hash: 'sha256:7b3116e581235ebb39b70d2c694515822e61fafe865a9367f9941940329eba6f'}
+  - {seq: 3, filename: KR6k0203_003-X.yaml, hash: 'sha256:3a1aafbda9d61e2c7edee27cad6dc4080b7e431acd409a535c956064cd33b6b4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0203_000-X.markers.yaml, hash: 'sha256:5faf0eaacfc9d408ab2ed307512052cd4b46fec1af9f7c864de706712ed2d5a9'}
+  - {seq: 1, role: markers, filename: assets/KR6k0203_001-X.markers.yaml, hash: 'sha256:56502a7747a60ff67d75eacbc92536fbab4312d0caeb87f52d782d14e76f704d'}
+  - {seq: 2, role: markers, filename: assets/KR6k0203_002-X.markers.yaml, hash: 'sha256:0094825ca4803542e7ed7db630a1e158c8570aea8af290e02ba35ac0adb4faaf'}
+  - {seq: 3, role: markers, filename: assets/KR6k0203_003-X.markers.yaml, hash: 'sha256:de16f3a6e1933d578f4f11e15264bb13d6a728df5ccba400435e643e48a526d3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0203_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1496-A 慈悲道場水懺原敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0203_X_000-mulu-2
+    span:
+    - front
+    - 429
+    - 429
+  label: 緣起文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0203_X_000-mulu-3
+    span:
+    - front
+    - 583
+    - 583
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0203_X_000-mulu-4
+    span:
+    - front
+    - 1250
+    - 1250
+  label: 水懺總科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22222
+  label: 水懺科註卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-3
+    span:
+    - body
+    - 20985
+    - 20985
+  label: 音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-4
+    span:
+    - body
+    - 20987
+    - 20987
+  label: 原敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-5
+    span:
+    - body
+    - 21091
+    - 21091
+  label: 緣起文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-6
+    span:
+    - body
+    - 21113
+    - 21113
+  label: 開經偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-7
+    span:
+    - body
+    - 21131
+    - 21131
+  label: 愍念後文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-8
+    span:
+    - body
+    - 21201
+    - 21201
+  label: 夫欲文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-9
+    span:
+    - body
+    - 21266
+    - 21266
+  label: 罪相文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-10
+    span:
+    - body
+    - 21293
+    - 21293
+  label: 厭離文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-11
+    span:
+    - body
+    - 21337
+    - 21337
+  label: 菩提文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-12
+    span:
+    - body
+    - 21383
+    - 21383
+  label: 觀罪文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-13
+    span:
+    - body
+    - 21419
+    - 21419
+  label: 先應文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-14
+    span:
+    - body
+    - 21475
+    - 21475
+  label: 改往文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-15
+    span:
+    - body
+    - 21586
+    - 21586
+  label: 煩惱文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-16
+    span:
+    - body
+    - 21688
+    - 21688
+  label: 註音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-17
+    span:
+    - body
+    - 21691
+    - 21691
+  label: 啟運文註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-18
+    span:
+    - body
+    - 21730
+    - 21730
+  label: 慈悲註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-19
+    span:
+    - body
+    - 21857
+    - 21857
+  label: 歸依註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-20
+    span:
+    - body
+    - 21884
+    - 21884
+  label: 慚愧註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-21
+    span:
+    - body
+    - 21893
+    - 21893
+  label: 厭離註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-22
+    span:
+    - body
+    - 21946
+    - 21946
+  label: 不淨觀註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-23
+    span:
+    - body
+    - 21978
+    - 21978
+  label: 怨親註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-24
+    span:
+    - body
+    - 21994
+    - 21994
+  label: 觀罪註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-25
+    span:
+    - body
+    - 22016
+    - 22016
+  label: 擎拳註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-26
+    span:
+    - body
+    - 22031
+    - 22031
+  label: 更相註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-27
+    span:
+    - body
+    - 22043
+    - 22043
+  label: 四住註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-28
+    span:
+    - body
+    - 22052
+    - 22052
+  label: 六根註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-29
+    span:
+    - body
+    - 22062
+    - 22062
+  label: 九結註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-30
+    span:
+    - body
+    - 22071
+    - 22071
+  label: 六受等註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-31
+    span:
+    - body
+    - 22088
+    - 22088
+  label: 覺華佛註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-32
+    span:
+    - body
+    - 22104
+    - 22104
+  label: 覆藏註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-33
+    span:
+    - body
+    - 22124
+    - 22124
+  label: 外肅註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-34
+    span:
+    - body
+    - 22146
+    - 22146
+  label: 天眼註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-35
+    span:
+    - body
+    - 22167
+    - 22167
+  label: 不關註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0203_X_001-mulu-36
+    span:
+    - body
+    - 22177
+    - 22177
+  label: 訶責註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 22992
+  label: 水懺科註卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 卷中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-3
+    span:
+    - body
+    - 21667
+    - 21667
+  label: 音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-4
+    span:
+    - body
+    - 21669
+    - 21669
+  label: 復應後文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-5
+    span:
+    - body
+    - 21769
+    - 21769
+  label: 障學文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-6
+    span:
+    - body
+    - 21794
+    - 21794
+  label: 觸向文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-7
+    span:
+    - body
+    - 21823
+    - 21823
+  label: 一闡提文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-8
+    span:
+    - body
+    - 21864
+    - 21864
+  label: 殺害文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-9
+    span:
+    - body
+    - 22192
+    - 22192
+  label: 劫盜文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-10
+    span:
+    - body
+    - 22312
+    - 22312
+  label: 婬欲文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-11
+    span:
+    - body
+    - 22342
+    - 22342
+  label: 口四文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-12
+    span:
+    - body
+    - 22455
+    - 22455
+  label: 六根文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-13
+    span:
+    - body
+    - 22482
+    - 22482
+  label: 註音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-14
+    span:
+    - body
+    - 22485
+    - 22485
+  label: 觀因緣文註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-15
+    span:
+    - body
+    - 22507
+    - 22507
+  label: 觀果報註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-16
+    span:
+    - body
+    - 22526
+    - 22526
+  label: 除障註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-17
+    span:
+    - body
+    - 22575
+    - 22575
+  label: 聖道註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-18
+    span:
+    - body
+    - 22597
+    - 22597
+  label: 業力甚深註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-19
+    span:
+    - body
+    - 22642
+    - 22642
+  label: 三十二相註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-20
+    span:
+    - body
+    - 22696
+    - 22696
+  label: 八十好註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-21
+    span:
+    - body
+    - 22743
+    - 22743
+  label: 殺業註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-22
+    span:
+    - body
+    - 22835
+    - 22835
+  label: 盜業註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-23
+    span:
+    - body
+    - 22881
+    - 22881
+  label: 婬業註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-24
+    span:
+    - body
+    - 22912
+    - 22912
+  label: 口四註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0203_X_002-mulu-25
+    span:
+    - body
+    - 22943
+    - 22943
+  label: 六根註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 17325
+  label: 水懺科註卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-3
+    span:
+    - body
+    - 16561
+    - 16561
+  label: 音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-4
+    span:
+    - body
+    - 16563
+    - 16563
+  label: 佛法僧間後文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-5
+    span:
+    - body
+    - 16684
+    - 16684
+  label: 其餘文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-6
+    span:
+    - body
+    - 16803
+    - 16803
+  label: 三惡道文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-7
+    span:
+    - body
+    - 16843
+    - 16843
+  label: 人閒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-8
+    span:
+    - body
+    - 16871
+    - 16871
+  label: 註音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-9
+    span:
+    - body
+    - 16874
+    - 16874
+  label: 讚佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-10
+    span:
+    - body
+    - 16883
+    - 16883
+  label: 卑猥註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-11
+    span:
+    - body
+    - 16924
+    - 16924
+  label: 闚竊註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-12
+    span:
+    - body
+    - 16962
+    - 16962
+  label: 飲酒註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-13
+    span:
+    - body
+    - 16975
+    - 16975
+  label: 生鱠註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-14
+    span:
+    - body
+    - 17044
+    - 17044
+  label: 屠沽註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-15
+    span:
+    - body
+    - 17069
+    - 17069
+  label: 衰相註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-16
+    span:
+    - body
+    - 17109
+    - 17109
+  label: 地獄註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-17
+    span:
+    - body
+    - 17209
+    - 17209
+  label: 畜生註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-18
+    span:
+    - body
+    - 17237
+    - 17237
+  label: 餓鬼註
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0203_X_003-mulu-19
+    span:
+    - body
+    - 17258
+    - 17258
+  label: 懺悔註
+  type: mulu
+  level: 1
+hash: sha256:fffbf19101435cd6d4a02b63a65194c8644adfb8709da915d42c15770ef352be
