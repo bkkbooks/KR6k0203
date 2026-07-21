@@ -21,12 +21,12 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0203_000.yaml, hash: 'sha256:d7be028126980357212bd50d15687dd064f2b4f65213fe41723f51c8354bdc08'}
+  - {seq: 0, filename: KR6k0203_000.yaml, hash: 'sha256:984577fa45e31608623302888a29fcb612b8b5a8f06377acd12b25c4726d76e5'}
   - {seq: 1, filename: KR6k0203_001.yaml, hash: 'sha256:dbb06734c9b9153e45696c9b0fa99e1a4d541e3a9120ecede18b700b0e46f747'}
   - {seq: 2, filename: KR6k0203_002.yaml, hash: 'sha256:e803fa68cf24f63ef468cc2e0cffd28cb20bed8fb302f2963de4898fff7306a0'}
   - {seq: 3, filename: KR6k0203_003.yaml, hash: 'sha256:d0959aa60b1e00914480b95545d369cb24e748bb2db622222623f84ba7ff2ad8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0203_000.markers.yaml, hash: 'sha256:6be80e09eb09cd5f5505be743106a393086c52376282ffcc91213aea03525297'}
+  - {seq: 0, role: markers, filename: assets/KR6k0203_000.markers.yaml, hash: 'sha256:4fea14774886a2b9b0f70c1f1d1d240034492de66bfc730852d7cee808396611'}
   - {seq: 1, role: markers, filename: assets/KR6k0203_001.markers.yaml, hash: 'sha256:4c29f31219144348a5295ffe4d55873673681b75d90fb700230face2f57ad9b6'}
   - {seq: 2, role: markers, filename: assets/KR6k0203_002.markers.yaml, hash: 'sha256:aa70272c919164dc881a584236f5eb8050ed51f6539210bec24c194572236771'}
   - {seq: 3, role: markers, filename: assets/KR6k0203_003.markers.yaml, hash: 'sha256:d6df390b3f4d8e203c55121da30985dfcf21c1315f17dd3eaa308fa08101cb75'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0203_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1496-A 慈悲道場水懺原敘
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0203_X_000-mulu-2
     span:
-    - front
+    - body
     - 429
     - 429
   label: 緣起文
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0203_X_000-mulu-3
     span:
-    - front
+    - body
     - 583
     - 583
   label: 例言
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0203_X_000-mulu-4
     span:
-    - front
+    - body
     - 1250
     - 1250
   label: 水懺總科
@@ -901,7 +901,7 @@ table_of_contents:
   label: 懺悔註
   type: mulu
   level: 1
-hash: sha256:749ef17af51d58ea2b218d9bc26a19d7b228d49d53668172def6ef34a2cba539
+hash: sha256:93d5a43d9effdcf229e68e452179be13ebc75c09d27109856b0c433f3d998453
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
